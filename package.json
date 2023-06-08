@@ -1,0 +1,17 @@
+{
+  "name": "chwes-developer-abone",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Created By chwes.exe#0001",
+  "license": "ISC",
+  "dependencies": {
+    "croxydb": "^0.0.7",
+    "discord-modals": "^1.3.9",
+    "discord.js": "^14.11.0",
+    "justdata": "^1.4.0"
+  }
+}
